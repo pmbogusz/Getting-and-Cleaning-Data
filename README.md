@@ -1,4 +1,4 @@
 Getting-and-Cleaning-Data
 =========================
 
-Coursera Getting and Cleaning Data: Peer Assessments
+Coursera Getting and Cleaning Data: Peer Assessments 
