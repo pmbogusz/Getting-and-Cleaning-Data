@@ -9,7 +9,14 @@ This project is a part of Coursera course "Getting and Cleaning Data" - Peer Ass
 Human Activity Recognition Using Smartphones Dataset: All information aobut data set in file: experiment_readme.txt
 https://github.com/pmbogusz/Getting-and-Cleaning-Data/blob/master/experiment_readme.txt
 
+## Output
+
+* https://github.com/pmbogusz/Getting-and-Cleaning-Data/blob/master/data_mean.txt
+
+
 ## How script works
+
+* script included in https://github.com/pmbogusz/Getting-and-Cleaning-Data/blob/master/run_analysis.R file
 
 * instalation of necessery package "reshape2", loading package and setting working directory to Samsung data directory (if needed,  this line is commented)
 * File with activity names and file with features (variables) names are loaded into R in to "activity" and "features" dataframes.
